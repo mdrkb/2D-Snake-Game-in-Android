@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="app_name">Hungry Snake</string>
+  <string name="mode_ready">\nTouch To Play</string>
+  <string name="mode_pause">Paused\nTouch To Resume</string>
+  <string name="score">Score: %1$d </string>
+  <string name="mode_lose">Game Over\nScore: %1$d \nTouch To Play Again</string>
+</resources>

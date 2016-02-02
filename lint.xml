@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res/layout/main_menu.xml" />
+        <ignore path="res/layout/snake_layout.xml" />
+        <ignore path="res/layout/welcome.xml" />
+    </issue>
+    <issue id="HandlerLeak" severity="ignore" />
+    <issue id="HardcodedText">
+        <ignore path="res/layout/about.xml" />
+        <ignore path="res/layout/intro.xml" />
+        <ignore path="res/layout/options.xml" />
+        <ignore path="res/layout/startgame.xml" />
+    </issue>
+    <issue id="ScrollViewCount">
+        <ignore path="res/layout/main_menu.xml" />
+    </issue>
+    <issue id="UselessParent">
+        <ignore path="res/layout/main_menu.xml" />
+        <ignore path="res/layout/options.xml" />
+    </issue>
+</lint>
